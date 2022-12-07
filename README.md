@@ -1,6 +1,6 @@
 Jonathan Rodrigo
 
-- 🖥️ Atualmente aprendendo ('Python', 'Js', 'Css', 'Html')
+- 🖥️ Atualmente aprendendo ('React JS', 'Js', 'Css', 'Html')
 - 🚀 Estudando Inglês 
 
 <div>
