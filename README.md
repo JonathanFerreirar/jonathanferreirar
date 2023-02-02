@@ -12,7 +12,7 @@ Jonathan Rodrigo
 <div style="display: inline_block"><br>
   <img align="center" alt="jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jhow-Ts" height="30" width="40" src="https://icons8.com.br/icon/wpZmKzk11AzJ/typescript--v2">
-  <img align="center" alt="jhow-Angular" height="30" width="40" src="https://icons8.com.br/icon/j9DnICNnlhGk/angularjs">
+  <img align="center" alt="jhow-Angular" height="30" width="40" src="[https://icons8.com.br/icon/j9DnICNnlhGk/angularjs](https://icons8.com.br/icon/71257/angularjs)">
   <img align="center" alt="jhow-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
