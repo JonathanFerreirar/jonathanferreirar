@@ -1,7 +1,7 @@
 Jonathan Rodrigo
 
-- 🖥️ Atualmente aprendendo ('React JS', 'Js', 'Css', 'Html')
-- 🚀 Estudando Inglês 
+- 🖥️ Currently Learning ('Angular','Ts' ,'Js', 'Css', 'Html')
+- 🚀 Studing Inglesh 
 
 <div>
   <a href="https://github.com/jhowf">
