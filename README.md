@@ -1,6 +1,6 @@
 Jonathan Rodrigo
 
-- 🖥️ Currently Learning ('Angular','Ts' ,'Js', 'Css', 'Html')
+- 🖥️ Currently Learning ('React','Ts' ,'Js', 'Css', 'Html')
 - 🚀 Studing Inglesh 
 
 <div>
