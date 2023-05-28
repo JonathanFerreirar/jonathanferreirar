@@ -12,7 +12,7 @@
 - 📫 How to reach me **jonathanferreirar@gmail.com**
 
 <br/>
-
+<br/>
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
@@ -24,8 +24,8 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Angular`, `Typescript`, `Git` \
 
 <br/>
-
-
+<br/>
+<br/>
 
 **Contact with me** \
 <p align="left">
@@ -38,7 +38,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&" alt="jonathanferreirar" /></p>
   <br/>
-  
+  <br/>
  **Languages and Tools:** \ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
