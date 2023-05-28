@@ -1,7 +1,29 @@
-Jonathan Rodrigo
+<h1 align="center">Hi 👋, I'm Jonathan Rodrigo</h1>
 
-- 🖥️ Currently Learning ('React','Ts' ,'Js', 'Css', 'Html')
-- 🚀 Studing Inglesh 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Full-Stack+Software+Engineer+%7C+Frontend+Developer;3%2B+years+of+coding+experience;Always+learning++new+things+)](https://git.io/typing-svg)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
+
+- 🔭 I’m currently open to job offers
+
+- 🌱 I’m currently learning **React skills and Tests**
+
+- 📫 How to reach me **jonathanferreirar@gmail.com**
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+**Front-end Developer** \
+[**Aterra Ambiental**](https://aterraambiental.com/) • Contract \
+Languages & Technologies: `Angular`, `Typescript`, `Git` \
+<br/>
+
+
+h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact" alt="jonathanferreirar" /></p>
 
