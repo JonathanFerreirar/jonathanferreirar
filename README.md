@@ -11,12 +11,18 @@
 
 - 📫 How to reach me **jonathanferreirar@gmail.com**
 
+<br/>
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+
+[<img align="left" height="94px" width="94px" alt="Aterra" src="https://aterraambiental.com/wp-content/themes/aterra/assets/image/logo_vertical_aterra.svg"/>](https://aterraambiental.com/)
+
 **Front-end Developer** \
-[**Aterra Ambiental**](https://aterraambiental.com/) • Contract \
+[**Aterra Ambiental**](https://aterraambiental.com/) • internship \
 Languages & Technologies: `Angular`, `Typescript`, `Git` \
+
 <br/>
 
 
@@ -31,18 +37,18 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&locale=pt-br" alt="jonathanferreirar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&" alt="jonathanferreirar" /></p>
-  
+  <br/>
   
  **Languages and Tools:** \ 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 </div>
   
-  ##
+<br/>
   
 <div>
  
