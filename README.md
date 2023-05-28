@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Rodrigo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Full-Stack+Software+Engineer+%7C+Frontend+Developer;3%2B+years+of+coding+experience;Always+learning++new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Front-end+Developer;Always+learning++new+things++)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
@@ -20,7 +20,8 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <br/>
 
 
-h3 align="left">Connect with me:</h3>
+
+**Contact with me** \
 <p align="left">
   
 <a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
@@ -31,18 +32,19 @@ h3 align="left">Connect with me:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&" alt="jonathanferreirar" /></p>
   
+  
+ **Languages and Tools:** \ 
 <div style="display: inline_block"><br>
-  <img align="center" alt="jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jhow-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 </div>
   
   ##
   
 <div>
-  
-  <a href="https://www.linkedin.com/in/jonathan-rodrigo-ferreira-dos-santos-354106181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/JonathanFerreirar/JonathanFerreirar/blob/output/github-contribution-grid-snake.svg)
  
