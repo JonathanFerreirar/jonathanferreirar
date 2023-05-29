@@ -30,7 +30,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 **Contact with me** \
 <p align="left">
   
-<a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 <br/>
  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact" alt="jonathanferreirar" /></p>
