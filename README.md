@@ -25,13 +25,14 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 
 <br/>
 <br/>
-<br/>
+
 
 **Contact with me** \
 <p align="left">
   
 <a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
-
+<br/>
+ <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact" alt="jonathanferreirar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&locale=pt-br" alt="jonathanferreirar" /></p>
