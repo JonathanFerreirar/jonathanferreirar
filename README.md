@@ -34,9 +34,9 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <br/>
  <br/>
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
-
-<p>&nbsp;<img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
-
+ <br/>
+<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
+ <br/>
 <p><img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
   <br/>
   <br/>
