@@ -35,15 +35,15 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <br/>
  <br/>
   <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<p><img height="140em"   width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
 
-<p><img height="140em" align="left"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
-
-<p><img height="140em" align="left"   width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
-  
+<p><img height="140em"   width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
+  </div>
   <br/>
   <br/>
   
-<div style="display: inline_block"><br>  
+
  **Languages and Tools:** 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -57,7 +57,8 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
   
 <div>
  </div>
+  
   ![Snake animation](https://github.com/JonathanFerreirar/JonathanFerreirar/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
