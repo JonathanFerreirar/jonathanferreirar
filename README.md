@@ -27,7 +27,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <br/>
 
 
-**Contact with me** \
+**Contact with me**
 <p align="left">
   
 <a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
@@ -40,7 +40,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&" alt="jonathanferreirar" /></p>
   <br/>
   <br/>
- **Languages and Tools:** \ 
+ **Languages and Tools:** 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
