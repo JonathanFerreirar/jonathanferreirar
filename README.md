@@ -34,11 +34,13 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 <br/>
  <br/>
-  <p>&nbsp;<img height="180em" width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
+  <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
   
+  <div style="display: flex" width="100%">
 <p><img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
 
 <p><img height="140em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
+  </div>
   <br/>
   <br/>
  **Languages and Tools:** 
