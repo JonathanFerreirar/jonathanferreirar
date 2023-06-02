@@ -35,7 +35,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
 <br/>
  <br/>
   <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<div style="display: inline_block; justify-content: center; align-items: center; width: 100%;">
 <p><img height="140em"   width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
 
 <p><img height="140em"   width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
