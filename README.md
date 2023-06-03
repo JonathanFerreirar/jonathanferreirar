@@ -47,7 +47,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
   <br/>
   
 
- **Main skills and tools:** 
+ <h4>Main skills and tools: </h4>
 <br>
   
   <p align="left">
@@ -56,7 +56,10 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
   </a>
 </p>
 <br/>
-**Basic skills and tools:** 
+
+
+<h4>Basic skills and tools:</h4>
+
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
