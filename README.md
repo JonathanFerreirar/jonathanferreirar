@@ -38,30 +38,42 @@ Languages & Technologies: `Angular`, `Typescript`, `Git` \
   
 
   
-<p><img height="140em" align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
+<p><img height="160em" align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
 
-<p><img height="140em"  align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
+<p><img height="160em"  align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
   
 
   <br/>
   <br/>
   
 
- **Languages and Tools:** 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-</div>
+ **Main skills and tools:** 
+<br>
+  
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,redux,jest,tailwind,git,firebase,figma,codepen" />
+  </a>
+</p>
+<br/>
+**Basic skills and tools:** 
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,mysql,py,bootstrap,styledcomponents,sass,heroku" />
+  </a>
+</p>
+
+
   
 <br/>
   
 <div>
  </div>
+ 
+ ![Snake animation](https://github.com/JonathanFerreirar/JonathanFerreirar/blob/output/github-contribution-grid-snake.svg)
   
-  ![Snake animation](https://github.com/JonathanFerreirar/JonathanFerreirar/blob/output/github-contribution-grid-snake.svg)
+  
  
 
 
