@@ -21,7 +21,16 @@ In the overview below you will find my most recent work experience:
 
 **Front-end Developer** \
 [**Aterra Ambiental**](https://aterraambiental.com/) • internship \
-Languages & Technologies: `Angular`, `Typescript`, `Git` \
+Languages & Technologies: `Angular`, `Typescript`, `Git` 
+
+<br/>
+<br/>
+
+<img align="left" height="94px" width="94px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/6bab5b55-2c5d-42e6-b0fb-f11599cca795" />
+
+**Front-end Developer** \
+[**Personal Project**]() • Web-Store \
+Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` , `Api-Context`
 
 <br/>
 <br/>
