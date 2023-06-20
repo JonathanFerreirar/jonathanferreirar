@@ -26,7 +26,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/6bab5b55-2c5d-42e6-b0fb-f11599cca795" />
+<img align="left" height="94px" width="94px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/76d8a84e-fd3a-4287-be18-8bd0327d3ebc" />
 
 **Front-end Developer** \
 [**Personal Project**](https://techlong.vercel.app/) • Web-Store \
