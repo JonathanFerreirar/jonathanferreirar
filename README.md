@@ -29,7 +29,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`
 <img align="left" height="94px" width="94px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/76d8a84e-fd3a-4287-be18-8bd0327d3ebc" />
 
 **Front-end Developer** \
-[**Personal Project**](https://techlong.vercel.app/) • Web-Store \
+[**Personal Project**](https://github.com/JonathanFerreirar/store-TechLong) • Web-Store \
 Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` , `Api-Context`
 
 <br/>
