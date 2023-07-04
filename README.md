@@ -61,7 +61,7 @@ Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` ,
   
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,redux,jest,tailwind,git,firebase,figma,codepen" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,firebase,py,flask,figma,codepen" />
   </a>
 </p>
 <br/>
@@ -72,7 +72,7 @@ Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` ,
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,mysql,py,bootstrap,styledcomponents,sass,heroku" />
+    <img src="https://skillicons.dev/icons?i=angular,redux,mysql,bootstrap,styledcomponents,sass,heroku" />
   </a>
 </p>
 
