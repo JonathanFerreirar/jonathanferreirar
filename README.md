@@ -15,9 +15,10 @@
 <br/>
 ### Work Experience
 In the overview below you will find my most recent work experience:
+<br/>
+<br/>
 
-
-[<img align="left" height="94px" width="94px" alt="Aterra" src="https://aterraambiental.com/wp-content/themes/aterra/assets/image/logo_vertical_aterra.svg"/>](https://aterraambiental.com/)
+[<img align="left" height="94px" width="160px" alt="Aterra" src="https://aterraambiental.com/wp-content/themes/aterra/assets/image/logo_vertical_aterra.svg"/>](https://aterraambiental.com/)
 
 **Front-end Developer** \
 [**Aterra Ambiental**](https://aterraambiental.com/) • internship \
@@ -26,11 +27,21 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/76d8a84e-fd3a-4287-be18-8bd0327d3ebc" />
+<img align="left" height="94px" width="160px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/76d8a84e-fd3a-4287-be18-8bd0327d3ebc" />
 
 **Front-end Developer** \
 [**Personal Project**](https://github.com/JonathanFerreirar/store-TechLong) • Web-Store \
 Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` , `Api-Context`
+
+<br/>
+<br/>
+
+
+<img align="left" height="94px" width="160px" alt="Cine Explore" src="https://github.com/JonathanFerreirar/cine-explorer/assets/107007377/9ed7e295-a92c-439d-adb4-e62b38f1b8ee" />
+
+**Front-end Developer** \
+[**Personal Project**](https://github.com/JonathanFerreirar/cine-explorer) • Cine-Explore \
+Languages & Technologies: `React`, `JavaScript`, `Git`, `Api-TMDB (The Movie Database)`, `BootStrap` , `Api-Context`
 
 <br/>
 <br/>
