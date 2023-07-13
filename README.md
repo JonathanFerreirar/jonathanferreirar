@@ -41,7 +41,7 @@ Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` ,
 
 **Front-end Developer** \
 [**Personal Project**](https://github.com/JonathanFerreirar/cine-explorer) • Cine-Explore \
-Languages & Technologies: `React`, `JavaScript`, `Git`, `Api-TMDB (The Movie Database)`, `BootStrap` , `Api-Context`
+Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Database)`, `BootStrap` , `Api-Context`
 
 <br/>
 <br/>
