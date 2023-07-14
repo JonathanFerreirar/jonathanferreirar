@@ -72,7 +72,7 @@ Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Da
   
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,firebase,py,flask,figma,codepen" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,firebase,py,flask,figma,codepen" />
   </a>
 </p>
 <br/>
