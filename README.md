@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
-- 🔭 I’m currently open to job offers
-
 - 🌱 I’m currently learning **React skills and Tests**
 
 - 📫 How to reach me **jonathanferreirar@gmail.com**
