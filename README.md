@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Front-end+Developer;Always+learning++new+things++)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanferreirar&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan Rodrigo" /> </p>
 
 - 🌱 I’m currently learning **React skills and Tests**
 
@@ -16,11 +16,20 @@ In the overview below you will find my most recent work experience:
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/d11d7572-4ffd-4cbb-9110-022a9a31a2cf"/>](https://ignisdigital.tec.br/)
+
+**Front-end Developer** \
+[**Ignis Digital**](https://ignisdigital.tec.br/) • internship \
+Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `Tailwind`, `Styled Components` 
+
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="160px" alt="Aterra" src="https://aterraambiental.com/wp-content/themes/aterra/assets/image/logo_vertical_aterra.svg"/>](https://aterraambiental.com/)
 
 **Front-end Developer** \
 [**Aterra Ambiental**](https://aterraambiental.com/) • internship \
-Languages & Technologies: `Angular`, `Typescript`, `Git` 
+Languages & Technologies: `Angular`, `Typescript`, `Git`, `Tailwind`
 
 <br/>
 <br/>
