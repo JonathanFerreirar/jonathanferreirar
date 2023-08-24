@@ -16,7 +16,7 @@ In the overview below you will find my most recent work experience:
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/d11d7572-4ffd-4cbb-9110-022a9a31a2cf"/>](https://ignisdigital.tec.br/)
+[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/72946fc1-46fc-4fa5-acd1-0235269fc25c"/>](https://ignisdigital.tec.br/)
 
 **Front-end Developer** \
 [**Ignis Digital**](https://ignisdigital.tec.br/) • internship \
