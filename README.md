@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Front-end+Developer;Always+learning++new+things++)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanferreirar&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan Rodrigo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
 - 🌱 I’m currently learning **React skills and Tests**
 
