@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
-- 🌱 I’m currently learning **React skills and Tests**
-
+- 🌱 I'm always learning**
+  
 - 📫 How to reach me **jonathanferreirar@gmail.com**
 
 <br/>
@@ -26,11 +26,11 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 <br/>
 
 
-[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://avatars.githubusercontent.com/u/141384539?s=400&u=4d3b3a564bf13337117ceef9e7781fe65499175a&v=4"/>](https://descoinvest.vercel.app/)
+[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/1f84bdfa-cc42-434f-93f6-e83961e6a3e5"/>](https://descoinvest.vercel.app/)
 
 **FullStack Developer** \
-[**Ignis Digital**](https://descoinvest.vercel.app/)  \
-Languages & Technologies: `React`, `Typescript`, `Git`, `Jest`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`  
+[**DescoInvest**](https://descoinvest.vercel.app/)  \
+Languages & Technologies: `React`, `Typescript`, `Git`, `Jest`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`, `MySql`  
 
 <br/>
 <br/>
@@ -89,7 +89,7 @@ Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Da
   
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,git,firebase,py,flask,figma,codepen" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,git,firebase,py,flask,figma,codepen,django,mysql,electron" />
   </a>
 </p>
 <br/>
@@ -100,7 +100,7 @@ Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Da
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,redux,mysql,bootstrap,styledcomponents,sass,heroku" />
+    <img src="https://skillicons.dev/icons?i=angular,redux,bootstrap,styledcomponents,sass,heroku" />
   </a>
 </p>
 
