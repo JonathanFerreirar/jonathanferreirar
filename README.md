@@ -20,7 +20,17 @@ In the overview below you will find my most recent work experience:
 
 **Front-end Developer** \
 [**Ignis Digital**](https://ignisdigital.tec.br/) • internship \
-Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `Tailwind`, `Styled Components` 
+Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `Tailwind`, `Styled Components` , `Jest`, `Storybook`
+
+<br/>
+<br/>
+
+
+[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://avatars.githubusercontent.com/u/141384539?s=400&u=4d3b3a564bf13337117ceef9e7781fe65499175a&v=4"/>](https://descoinvest.vercel.app/)
+
+**FullStack Developer** \
+[**Ignis Digital**](https://descoinvest.vercel.app/)  \
+Languages & Technologies: `React`, `Typescript`, `Git`, `Jest`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`  
 
 <br/>
 <br/>
