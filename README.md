@@ -30,7 +30,7 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 
 **FullStack Developer** \
 [**DescoInvest**](https://descoinvest.vercel.app/)  \
-Languages & Technologies: `React`, `Typescript`, `Git`, `Jest`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`, `MySql`  
+Languages & Technologies: `React`, `Typescript`, `Git`, `Vitest`, `React-Hook-Forms`, `Zod` ,`Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`, `MySql` ,  `Zustand`
 
 <br/>
 <br/>
