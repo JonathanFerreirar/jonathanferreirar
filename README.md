@@ -69,6 +69,7 @@ Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Da
 
   
 <a href="https://www.linkedin.com/in/jonathan-rodrigo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jovem_front_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 <br/>
  <br/>
   <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
