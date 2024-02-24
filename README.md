@@ -19,7 +19,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/72946fc1-46fc-4fa5-acd1-0235269fc25c"/>](https://ignisdigital.tec.br/)
 
 **Front-end Developer** \
-[**Ignis Digital**](https://ignisdigital.tec.br/) • internship \
+[**Ignis Digital**](https://ignisdigital.tec.br/)
 Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `Tailwind`, `Styled Components` , `Jest`, `Storybook`
 
 <br/>
