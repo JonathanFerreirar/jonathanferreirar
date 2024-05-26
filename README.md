@@ -29,7 +29,7 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 [<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/1f84bdfa-cc42-434f-93f6-e83961e6a3e5"/>](https://descoinvest.vercel.app/)
 
 **FullStack Developer** \
-[**DescoInvest**](https://descoinvest.vercel.app/)  \
+[**DescoInvest**](https://descoinvest.com.br/)  \
 Languages & Technologies: `React`, `Typescript`, `Git`, `Vitest`, `React-Hook-Forms`, `Zod` ,`Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`, `MySql` ,  `Zustand`
 
 <br/>
