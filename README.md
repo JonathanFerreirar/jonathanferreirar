@@ -26,11 +26,11 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 <br/>
 
 
-[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/1f84bdfa-cc42-434f-93f6-e83961e6a3e5"/>](https://descoinvest.vercel.app/)
+[<img align="left" height="120px" width="160px" alt="Code Community" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758694268866560/icon-logo.png?ex=66a2ad25&is=66a15ba5&hm=190d0d4b0cbfe41a5d5bc7bc6ecca92ce945324581aa1370e5b3687c1d04b3c3&"/>](https://www.codecommunity.com.br/)
 
 **FullStack Developer** \
-[**DescoInvest**](https://descoinvest.com.br/)  \
-Languages & Technologies: `React`, `Typescript`, `Git`, `Vitest`, `React-Hook-Forms`, `Zod` ,`Tailwind`, `Firebase`, `Storybook`, `Python`,`Django (DRF)`, `Radix ui`, `MySql` ,  `Zustand`
+[**Code Community**](https://www.codecommunity.com.br/)  \
+Languages & Technologies: `Next.js (app router)`, `React`, `Typescript`, `Git`, `Jest`, `Zod` ,`Tailwind`, `Firebase`, `SOLID`,`Error handling`, `Radix ui`, `PostgreSQL` ,  `Resend email`, `Teamwork`, `Leadership`, `React Cosmo (documentation)`
 
 <br/>
 <br/>
@@ -44,11 +44,11 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`, `Tailwind`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="160px" alt="TechLong" src="https://github.com/JonathanFerreirar/jonathanferreirar/assets/107007377/76d8a84e-fd3a-4287-be18-8bd0327d3ebc" />
+<img align="left" height="120px" width="160px" alt="Radio Browser" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758803492601927/logo.png?ex=66a2ad3f&is=66a15bbf&hm=c077e60082f6efba00cc353a9858703868feb4bd578fa782587101e9a107d842&" />
 
 **Front-end Developer** \
-[**Personal Project**](https://github.com/JonathanFerreirar/store-TechLong) • Web-Store \
-Languages & Technologies: `React`, `Typescript`, `Git`, `MirageJS`, `Tailwind` , `Api-Context`
+[**Personal Project**](https://github.com/JonathanFerreirar/browser-radio) • Web-Radio-Browser \
+Languages & Technologies: `Nextjs`, `React`, `next-pwa`, `Typescript`, `Git`, `Docker`, `Tailwind` , `Api-Context`,  `Shadcn`, `Jest`, `react-hook-form` , `react-infinite-scroll-component`, `zod`
 
 <br/>
 <br/>
