@@ -26,7 +26,7 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 <br/>
 
 
-[<img align="left" height="120px" width="160px" alt="Code Community" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758694268866560/icon-logo.png?ex=66a2ad25&is=66a15ba5&hm=190d0d4b0cbfe41a5d5bc7bc6ecca92ce945324581aa1370e5b3687c1d04b3c3&"/>](https://www.codecommunity.com.br/)
+[<img align="left" height="150px" width="160px" alt="Code Community" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758694268866560/icon-logo.png?ex=66a2ad25&is=66a15ba5&hm=190d0d4b0cbfe41a5d5bc7bc6ecca92ce945324581aa1370e5b3687c1d04b3c3&"/>](https://www.codecommunity.com.br/)
 
 **FullStack Developer** \
 [**Code Community**](https://www.codecommunity.com.br/)  \
@@ -44,7 +44,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`, `Tailwind`
 <br/>
 <br/>
 
-<img align="left" height="120px" width="160px" alt="Radio Browser" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758803492601927/logo.png?ex=66a2ad3f&is=66a15bbf&hm=c077e60082f6efba00cc353a9858703868feb4bd578fa782587101e9a107d842&" />
+<img align="left" height="150px" width="160px" alt="Radio Browser" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758803492601927/logo.png?ex=66a2ad3f&is=66a15bbf&hm=c077e60082f6efba00cc353a9858703868feb4bd578fa782587101e9a107d842&" />
 
 **Front-end Developer** \
 [**Personal Project**](https://github.com/JonathanFerreirar/browser-radio) • Web-Radio-Browser \
