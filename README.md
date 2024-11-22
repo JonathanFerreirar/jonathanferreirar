@@ -26,7 +26,7 @@ Languages & Technologies: `NextJS`, `Typescript`, `Git`, `Zustand`, `Formik`, `T
 <br/>
 
 
-[<img align="left" height="150px" width="160px" alt="Code Community" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758694268866560/icon-logo.png?ex=66a2ad25&is=66a15ba5&hm=190d0d4b0cbfe41a5d5bc7bc6ecca92ce945324581aa1370e5b3687c1d04b3c3&"/>](https://www.codecommunity.com.br/)
+[<img align="left" height="150px" width="160px" alt="Code Community" src="https://private-user-images.githubusercontent.com/107007377/324630404-afc1b5b9-e7ac-4173-904a-493beb6b39c1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyODE3MzksIm5iZiI6MTczMjI4MTQzOSwicGF0aCI6Ii8xMDcwMDczNzcvMzI0NjMwNDA0LWFmYzFiNWI5LWU3YWMtNDE3My05MDRhLTQ5M2JlYjZiMzljMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMlQxMzE3MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xM2YwNTUwMDdjMmRmYzYwMmIwNDAyODViYmE4ZWE2M2FiODhmODIwOTI1MjgwZDVjMjNiMmYyMzg3MTMxZDBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6hHlXDBxFZm4NfJ05pzmr9vDKehNsGxYt8t_27vXFp4"/>](https://www.codecommunity.com.br/)
 
 **FullStack Developer** \
 [**Code Community**](https://www.codecommunity.com.br/)  \
@@ -44,7 +44,7 @@ Languages & Technologies: `Angular`, `Typescript`, `Git`, `Tailwind`
 <br/>
 <br/>
 
-<img align="left" height="150px" width="160px" alt="Radio Browser" src="https://cdn.discordapp.com/attachments/1265758093950844980/1265758803492601927/logo.png?ex=66a2ad3f&is=66a15bbf&hm=c077e60082f6efba00cc353a9858703868feb4bd578fa782587101e9a107d842&" />
+<img align="left" height="150px" width="160px" alt="Radio Browser" src="https://github.com/user-attachments/assets/ae90a48b-02ce-404b-9e51-b84d4332663a" />
 
 **Front-end Developer** \
 [**Personal Project**](https://github.com/JonathanFerreirar/browser-radio) • Web-Radio-Browser \
