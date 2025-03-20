@@ -45,15 +45,6 @@ Languages & Technologies: `Nextjs`, `React`, `next-pwa`, `Typescript`, `Git`, `D
 <br/>
 
 
-<img align="left" height="94px" width="160px" alt="Cine Explore" src="https://github-production-user-asset-6210df.s3.amazonaws.com/107007377/253164226-b9adfab6-7627-4a0f-a40e-b97d21e57945.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250320T144323Z&X-Amz-Expires=300&X-Amz-Signature=adab409f19f18ea5b80b0ce9907197eb100fa702e0fb0aced36b7034c22d8c1b&X-Amz-SignedHeaders=host" />
-
-**Front-end Developer** \
-[**Personal Project**](https://github.com/JonathanFerreirar/cine-explorer) • Cine-Explore \
-Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Database)`, `BootStrap` , `Api-Context`
-
-<br/>
-<br/>
-
 <p align="left">
 **Contact with me**
   </p>
