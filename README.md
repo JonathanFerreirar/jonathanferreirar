@@ -63,13 +63,11 @@ Languages & Technologies: `NextJS`, `JavaScript`, `Git`, `Api-TMDB (The Movie Da
 <a href="https://www.instagram.com/jovem_front_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 <br/>
  <br/>
-  <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>
-  
+ <div align="left">
+  <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanferreirar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jonathanferreirar" /></p>  
 
-  
-<p><img height="160em" align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanferreirar&show_icons=true&locale=en&layout=compact&theme=dark" alt="jonathanferreirar" /></p>
+</div>
 
-<p><img height="160em"  align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanferreirar&theme=dark" alt="jonathanferreirar" /></p>
   
 
   <br/>
