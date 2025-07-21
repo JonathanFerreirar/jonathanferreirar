@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
 - 🌱 I'm always learning**
-  
-- 📫 How to reach me **jonathanferreirar@gmail.com**
 
 <br/>
 <br/>
